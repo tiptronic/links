@@ -6,10 +6,9 @@
 
 
 
-
 ##Nodejs:
 
-
+[Installing Node.js on Plesk 12](https://www.conetix.com.au/blog/installing-nodejs-plesk-12)
 
 ##Javascript:
 
