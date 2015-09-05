@@ -10,6 +10,8 @@
 
 [Installing Node.js on Plesk 12](https://www.conetix.com.au/blog/installing-nodejs-plesk-12)
 
+[Keep a node.js server up with Forever](http://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever/)
+
 ##Javascript:
 
 ##Markdown
