@@ -1,6 +1,19 @@
-#Wordpress:
+##Wordpress:
 
-###GitHub updater:
+###GitHub plugin updater:
 
-https://github.com/afragen/github-updater/issues/242#issuecomment-137987528
+[github-updater](https://github.com/afragen/github-updater):	https://github.com/afragen/github-updater
 
+
+
+
+##Nodejs:
+
+
+
+##Javascript:
+
+##Markdown
+
+My new favorite Markdown editor on the Mac:
+[Macdown](https://github.com/uranusjr/macdown)
