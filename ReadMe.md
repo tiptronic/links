@@ -1,3 +1,7 @@
+#Things to remember:  
+  
+ 
+
 ##Wordpress:
 
 ###GitHub plugin updater:
