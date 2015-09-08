@@ -1,6 +1,8 @@
 #Things to remember:  
   
- 
+##Web
+
+[DEPLOYING STATIC SITES USING FLIGHTPLAN](http://usersnap.com/blog/deploying-static-websites-flightplan/)
 
 ##Wordpress:
 
