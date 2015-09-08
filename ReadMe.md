@@ -25,6 +25,7 @@
 [Various useful stuff by Dustin Diaz](https://github.com/ded?tab=repositories)  
 
 [Ender](http://enderjs.com)
+[Prism.js - Syntax highlighter](http://prismjs.com)
 
 ####PouchDB
 [An Introduction to PouchDB](https://blog.engineyard.com/2014/an-introduction-to-pouchdb)
