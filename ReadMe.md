@@ -43,6 +43,10 @@
 ####jQuery-Tableedit
 [jQuery-Tableedit](http://markcell.github.io/jquery-tabledit/)
 
+##CSS3
+###Animations
+[Overview on speckyboy.com](http://speckyboy.com/2015/09/09/css-animation/)
+
 ##Markdown
 
 My new favorite Markdown editor on the Mac:
